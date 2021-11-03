@@ -1,4 +1,4 @@
-Country,Year,No. of cases,No. of deaths,No. of cases_median,No. of cases_min,No. of cases_max,No. of deaths_median,No. of deaths_min,No. of deaths_max,WHO Region
+Country,Year,Cases,Deaths,CasesMedian,CasesMin,CasesMax,DeathsMedian,DeathsMin,DeathsMax,WHORegion
 Afghanistan, 2017,630308[495000-801000],298[110-510],630308,495000,801000,298,110,510,Eastern Mediterranean
 Algeria, 2017,0,0,0,,,0,,,Africa
 Angola, 2017,4615605[3106000-6661000],13316[9970-16600],4615605,3106000,6661000,13316,9970,16600,Africa
