@@ -2,9 +2,10 @@ Average yearly temperatures: https://web.archive.org/web/20150905135247/http://l
 This data set shows the average yearly temperature (in degrees celsius) of every country, calculated using temperatures from 1961 to 1990.
 
 GDP per capita: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
-This data set shows the GDP per capita of each country
+This data set shows the GDP per capita of each country. Unnecessary countries were removed before adding the data to the repository.
 
 HDI: https://databank.worldbank.org/Human-development-index/id/363d401b
-
+This page includes a number of data sets, but we used the World Development Indicators data base, which importantly included the average life expectancies (among other statistics) for every country.
 
 Malaria data: https://apps.who.int/gho/data/node.main.A1362?lang=en
+The WHO website included the number of reported/estimated deaths, as well as reported cases, of malaria around the world. In the case of estimated deaths, they were given in the form of ranges. This data was compared with the previously mentioned statistics.
